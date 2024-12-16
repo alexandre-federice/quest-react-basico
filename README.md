@@ -89,6 +89,7 @@ Made with 🖤 by **Alexandre Federice**
 - [LinkedIn](https://www.linkedin.com/in/pedro-alexandre-federice-soares/)
 
 ---
+---
 
 🇧🇷 **Versão em Português**
 
@@ -178,5 +179,3 @@ Feito com 🖤 por **Alexandre Federice**
 - [GitHub](https://github.com/alexandre-federice)
 - [LinkedIn](https://www.linkedin.com/in/pedro-alexandre-federice-soares/)
 ```
-
-Esse README segue o modelo fornecido e descreve o seu projeto de forma clara, tanto em inglês quanto em português.
