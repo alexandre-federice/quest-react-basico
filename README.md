@@ -178,4 +178,3 @@ Este projeto está sob a licença [MIT](LICENSE). Você é livre para utilizá-l
 Feito com 🖤 por **Alexandre Federice**
 - [GitHub](https://github.com/alexandre-federice)
 - [LinkedIn](https://www.linkedin.com/in/pedro-alexandre-federice-soares/)
-```
